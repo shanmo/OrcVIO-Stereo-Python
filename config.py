@@ -120,7 +120,7 @@ class ConfigEuRoC(object):
 
         self.load_features_flag = True 
         # self.load_features_flag = False 
-        self.result_dir = "/home/erl/dcist_vio_workspace/stereo_orcvio_python/results/"
+        self.result_dir = "/home/erl/vio_workspace/stereo_orcvio_python/results/"
 
         self.use_FEJ_flag = True 
         # self.use_FEJ_flag = False 

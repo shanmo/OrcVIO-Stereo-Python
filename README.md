@@ -32,6 +32,7 @@ If you find this repo useful, kindly cite our publications
 
 - change the dataset path in vio.py and run `python vio.py`  
 - to speed up, use `load_features_flag` to load saved features 
+  - need to turn off `load_features_flag` if this is the first run as there is no saved features yet
 
 # Results
 
